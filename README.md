@@ -6,6 +6,12 @@ Several programming exercises (EPs) developed for a College class (MAC 0417 - Im
   
 - Pasta (Google Drive) do EP01: https://drive.google.com/drive/folders/1ubIiGba3zHnV96B1JR5jz7j8Usq4PoZH?usp=drive_link
 
+- 1º Notebook (Google Colab) do EP02:
+
+- 2º Notebook (Google Colab) do EP02:
+
+- Pasta (Google Drive) do EP02: https://drive.google.com/drive/folders/1ECChF3IsuNFifmieHbZgJv1CRLgKvXis?usp=drive_link
+
 # EP01:
 - Criação de uma base de imagens
 - Elaboração de um notebook em python (.ipynb) contendo os metadados das imagens, tabela sumária, tabela detalhada por classe e uma apresentação das imagens obtidas.

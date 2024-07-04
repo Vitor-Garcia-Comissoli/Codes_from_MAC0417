@@ -4,13 +4,11 @@ Several programming exercises (EPs) developed for a College class (MAC 0417 - Im
 # Links Úteis:
 - Notebook (Google Colab) do EP01: https://colab.research.google.com/drive/1VfJfxVY7hDao9u2Vvc8k26umqTzVSfG_?authuser=1#scrollTo=ZCXVbx4dNVF4
   
-- Pasta (Google Drive) do EP01: https://drive.google.com/drive/folders/1ubIiGba3zHnV96B1JR5jz7j8Usq4PoZH?usp=drive_link
-
 - 1º Notebook (Google Colab) do EP02: https://colab.research.google.com/drive/1Nw1ZBk85BCnBKDn7audb7VXTjCoZyy52?usp=sharing
 
 - 2º Notebook (Google Colab) do EP02: https://colab.research.google.com/drive/12bovrcDCfp-pFnGsp85xXA6W0Va5m28-?usp=sharing
 
-- Pasta (Google Drive) do EP02: https://drive.google.com/drive/folders/1ECChF3IsuNFifmieHbZgJv1CRLgKvXis?usp=drive_link
+- Pasta (Google Drive) dos EPs: https://drive.google.com/drive/folders/1ubIiGba3zHnV96B1JR5jz7j8Usq4PoZH?usp=drive_link
 
 # EP01:
 - Criação de uma base de imagens;

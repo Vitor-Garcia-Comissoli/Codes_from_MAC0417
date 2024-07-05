@@ -31,6 +31,5 @@ Several programming exercises (EPs) developed for a College class (MAC 0417 - Im
 - Elaboração de um notebook em python (.ipynb) que realize a normalização das imagens de cada classe do dataset de augmentation;
 - Usar a equalização de histogramas como função inicial de normalização, gerando um normalizedDataset;
 - Aplicar as seguintes funções de análise à cada classe presente nos datasets originalGrayDataset, augmentedDataset e normalizedDataset:
-    - Protótipo médio de cada classe;
-    - Histograma médio de cada classe;
-    - Variância do histograma de cada classe.
+    - Histograma médio de cada iluminação;
+    - Comparação entre imagens antes e depois da normalização.

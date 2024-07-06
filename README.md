@@ -6,7 +6,7 @@ Several programming exercises (EPs) developed for a College class (MAC 0417 - Im
   
 - 1º Notebook (Google Colab) do EP02: https://colab.research.google.com/drive/1Nw1ZBk85BCnBKDn7audb7VXTjCoZyy52?usp=sharing
 
-- 2º Notebook (Google Colab) do EP02:
+- 2º Notebook (Google Colab) do EP02: https://colab.research.google.com/drive/12bovrcDCfp-pFnGsp85xXA6W0Va5m28-?usp=sharing
   
 - Pasta (Google Drive) dos EPs: https://drive.google.com/drive/folders/1ubIiGba3zHnV96B1JR5jz7j8Usq4PoZH?usp=drive_link
 
